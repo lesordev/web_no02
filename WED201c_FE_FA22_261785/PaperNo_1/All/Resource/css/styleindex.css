@@ -1,0 +1,66 @@
+.top-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2em;
+}
+
+.top-header::after,
+.top-header::before {
+  display: none;
+}
+
+.top-header .form-group.has-feedback.has-search {
+  width: 30vw;
+  height: 3.4em;
+  display: flex;
+  align-items: center;
+}
+
+.top-header .form-group.has-feedback.has-search .glyphicon.glyphicon-search {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.navbar {
+  display: flex;
+  background-color: #16b3fc;
+}
+
+.navbar .nav li a {
+  color: white;
+}
+
+.navbar .nav li.active a {
+  background-color: orangered;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2em;
+  color: #16b3fc;
+}
+
+p {
+  text-align: center;
+}
+
+.center-image {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.card {
+  display: flex;
+}
+
+.footer {
+  margin-top: 3em;
+  background-color: #16b3fc;
+  display: flex;
+  flex-direction: column;
+  padding: 4em 0;
+  align-items: center;
+  color: white;
+}
