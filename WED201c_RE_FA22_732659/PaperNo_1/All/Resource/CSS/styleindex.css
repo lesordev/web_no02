@@ -1,3 +1,10 @@
+body,
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -18,4 +25,29 @@
   height: 2em;
   background-color: black;
   color: white;
+}
+
+.banner {
+  width: 100%;
+}
+
+.banner img {
+  width: 100%;
+}
+
+.menu ul {
+  display: flex;
+  height: 80px;
+  background-color: #2fc2bc;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
 }
