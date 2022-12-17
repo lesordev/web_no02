@@ -1,3 +1,4 @@
 git add . && git commit -m "ok" && git push -f
 
 - ok chua ne
+- aloooooo, push co can -f kh a
