@@ -1,2 +1,5 @@
 git add . && git commit -m "ok" && git push -f
 nhan dc de chua
+
+- rồi nha
+- ủa, đề ở mô, có source mấy
