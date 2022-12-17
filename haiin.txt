@@ -1,12 +1,2 @@
 git add . && git commit -m "ok" && git push -f
-<<<<<<< HEAD
 nhan dc de chua
-=======
-
-- ok chua ne
-- aloooooo, push co can -f kh a
-
-- không được thì -f
-- alo, mô rồi
-- gặp trục trặc chi rồi à
->>>>>>> b38f4a37c1940e95a7ffb7e210a68cba6348dc07
