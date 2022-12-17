@@ -1,3 +1,6 @@
 git add . && git commit -m "ok" && git push -f
 nhan dc de chua
 empushlenr
+
+
+a có làm cái header rồi á
