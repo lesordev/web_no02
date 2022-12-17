@@ -1,3 +1,7 @@
+html {
+  font-size: 16px;
+}
+
 body,
 * {
   padding: 0;
@@ -33,6 +37,7 @@ body,
 
 .banner img {
   width: 100%;
+  display: block;
 }
 
 .menu ul {
@@ -50,4 +55,20 @@ body,
   text-decoration: none;
   color: white;
   font-size: 20px;
+}
+
+.intro {
+  padding: 1em;
+}
+
+.intro h1 {
+  color: #f68b68;
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 1.2em;
+}
+
+p {
+  font-size: 1.5em;
+  margin-bottom: 1em;
 }
